@@ -1,0 +1,32 @@
+body {
+  padding-top: 70px !important;
+}
+
+table tr:first-child td {
+	border-top: none;
+}
+
+.isi {
+	font-weight: bold;
+}
+.coret,
+.coret strong {
+	text-decoration: line-through;
+	font-style: italic;
+	font-weight: normal;
+}
+
+.edit-container {
+	width: 52.8px;
+}
+.hapus-container {
+	width: 50.4px;
+}
+
+.sembunyi {
+	display: none;
+}
+
+.progress {
+	height: 10px;
+}
